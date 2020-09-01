@@ -1,0 +1,54 @@
+﻿.jumbotron-1 {
+    background: url(https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color:teal;
+    height:50vh;
+}
+
+.jumbotron-2 {
+    background: url(https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=643&q=80) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: teal;
+    height: 50vh;
+}
+
+/*media icon styles*/
+.media-wrapper {
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(160,166,165,1) 0%, rgba(189,232,229,1) 15%, rgba(255,255,255,0.8109984984984985) 100%);
+    width: 100%;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.media-1, .media-2, .media-3, .media-4 {
+    width: 100%;
+    height: auto;
+}
+
+.media-1 {
+    color:blue;
+}
+
+.media-2 {
+    color: skyblue;
+}
+
+.media-3 {
+    color: red;
+}
+
+.media-4 {
+    color: goldenrod;
+}
+
+i {
+    font-size: 2.6em;
+}
